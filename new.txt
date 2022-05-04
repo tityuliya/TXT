@@ -1,0 +1,4 @@
+1) full name "Yuliya Tsitova"
+2) age "30(tomorrow will be 31)"
+3) pets "none"
+4) future desired salary "enough for travel"
