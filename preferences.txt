@@ -1,0 +1,4 @@
+1) favorite movie "Coco"
+2) favorite food "croissant"
+3) favorite season "winter"
+4) country you want to visit "Japan"
